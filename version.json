@@ -1,6 +1,6 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-05-15",
-  "message": "Test | Added new link to System link-set",
-  "downloadUrl": "https://github.com/RuneAa91/lexitlinks/blob/main/data/link-sets/System.json"
+  "message": "Published public download package",
+  "packageUrl": "https://raw.githubusercontent.com/RuneAa91/lexitlinks-version/main/lexitlinks-package.zip"
 }
