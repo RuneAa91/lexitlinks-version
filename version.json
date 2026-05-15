@@ -1,6 +1,6 @@
 {
-  "version": 1,
+  "version": 3,
   "updatedAt": "2026-05-15",
-  "message": "Initial static Quick-links package",
-  "downloadUrl": "https://github.com/RuneAa91/lexitlinks"
+  "message": "Test | Added new link to System link-set",
+  "downloadUrl": "https://github.com/RuneAa91/lexitlinks/blob/main/data/link-sets/System.json"
 }
